@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feab1d2f9cdbeb44b96f05668166d24f, type: 3}
+  m_Name: Line 1
+  m_EditorClassIdentifier: Assembly-CSharp::DiagData_Faces
+  line: Hey Josie, how are you?
+  face: {fileID: -1794729896, guid: 26c19cd9de0ae4245a4894a14f19ce0c, type: 3}
